@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T12:36:32.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="xf_6xfEHANUNUC4G9DMR" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T12:38:36.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="ccIyAGhAChwlHiJvJtTX" version="14.2.3" type="github">
   <diagram id="T6xlHbsUolrJedsmvCXW" name="Page-1">
     <mxGraphModel dx="941" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,25 +13,25 @@
         <mxCell id="YMOrMJ7NWThHLhNSM4CX-4" value="Data Pre-Processing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-5" value="&lt;font color=&quot;#4d4d4d&quot;&gt;Data Cleaning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-7" value="Categorical Analysis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#E6E6E6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-8" value="Scaling and Standardization" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#E6E6E6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-9" value="Missing Data Analysis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#E6E6E6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-10" value="Outlier / Skewness Analysis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#E6E6E6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-11" value="Uni / Bi / Multi variate Analysis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#E6E6E6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-12" value="Multicollinearity" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#E6E6E6;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YMOrMJ7NWThHLhNSM4CX-15" value="Pre-Processed Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">

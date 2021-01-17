@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-16T03:13:09.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="Z0fCghrVmmaJSmb3kKIh" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T17:14:05.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="0Cp2cF-btvxCCxtiNY0K" version="14.2.3" type="github">
   <diagram id="T6xlHbsUolrJedsmvCXW" name="Page-1">
-    <mxGraphModel dx="941" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="800" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="YMOrMJ7NWThHLhNSM4CX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4D4D4D;" edge="1" parent="1" source="YMOrMJ7NWThHLhNSM4CX-2" target="YMOrMJ7NWThHLhNSM4CX-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YMOrMJ7NWThHLhNSM4CX-2" value="Load Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="YMOrMJ7NWThHLhNSM4CX-2" value="Load Telecom Customer Churn Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YMOrMJ7NWThHLhNSM4CX-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#4D4D4D;" edge="1" parent="1" source="YMOrMJ7NWThHLhNSM4CX-4" target="YMOrMJ7NWThHLhNSM4CX-5">
